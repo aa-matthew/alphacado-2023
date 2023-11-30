@@ -1,0 +1,9 @@
+[submodule "contract"]
+	path = contract
+	url = https://github.com/ndtr2000/alphacado.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/albertdavid0708/klaytn_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/longvuit18/alphacado.git
